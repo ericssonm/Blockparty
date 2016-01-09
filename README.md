@@ -9,3 +9,18 @@ The first phase was coming up with an idea for a toy store logo and it’s name;
 The second phase was to design the layout via layer comps in Photoshop. While touching on consistent minimalism, I wanted to be able to keep the user engaged by achieving responsive design that included a fun experience. By doing this, I had to tailor the initial layers comps logically to fit fluent user design and functionality.
 
 The third phase was to bring Blockparty to life. I wasn't satisfied with the way the website was originally in phase two and directed my attention toward a one page layout based on the amount of content. A list of notable specifications that were utilized in order to reach my end-goal and a summary of the overall experience can be located in the green box provided.
+
+
+
+
+
+PROJECT DETAILS
+Individual Effort
+Original Branding
+Retro Design
+Photoshop Layer Comps
+Bootstrap Responsive Framework
+One Page Design
+Lightbox - Multiple Options
+Robust Contact Form
+Google Maps API
