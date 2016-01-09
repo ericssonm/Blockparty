@@ -14,7 +14,7 @@ The third phase was to bring Blockparty to life. I wasn't satisfied with the way
 
 
 
-PROJECT DETAILS
+<b>PROJECT DETAILS</b>
 <br>Individual Effort
 <br>Original Branding
 <br>Retro Design
