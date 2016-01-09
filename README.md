@@ -15,12 +15,12 @@ The third phase was to bring Blockparty to life. I wasn't satisfied with the way
 
 
 PROJECT DETAILS
-Individual Effort
-Original Branding
-Retro Design
-Photoshop Layer Comps
-Bootstrap Responsive Framework
-One Page Design
-Lightbox - Multiple Options
-Robust Contact Form
-Google Maps API
+<br>Individual Effort
+<br>Original Branding
+<br>Retro Design
+<br>Photoshop Layer Comps
+<br>Bootstrap Responsive Framework
+<br>One Page Design
+<br>Lightbox - Multiple Options
+<br>Robust Contact Form
+<br>Google Maps API
