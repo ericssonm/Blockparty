@@ -10,9 +10,7 @@
 
   The third phase was to bring Blockparty to life. I wasn't satisfied with the way the website was originally in phase two and directed my attention toward a one page layout based on the amount of content. A list of notable specifications that were utilized in order to reach my end-goal and a summary of the overall experience can be located in the green box provided.
 
-
-
-
+<br><br><br>
 
 <b>PROJECT DETAILS</b>
 <br>Individual Effort
